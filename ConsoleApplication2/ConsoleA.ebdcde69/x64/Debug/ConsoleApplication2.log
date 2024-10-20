@@ -1,0 +1,5 @@
+﻿  ConsoleApplication2.cpp
+D:\Users\BaDroH\ИВТ\2 курс\Программирование\ЛР 2\ConsoleApplication2\ConsoleApplication2.cpp(80,28): warning C4244: инициализация: преобразование "double" в "__int64", возможна потеря данных
+D:\Users\BaDroH\ИВТ\2 курс\Программирование\ЛР 2\ConsoleApplication2\ConsoleApplication2.cpp(81,30): warning C4244: инициализация: преобразование "double" в "__int64", возможна потеря данных
+D:\Users\BaDroH\ИВТ\2 курс\Программирование\ЛР 2\ConsoleApplication2\ConsoleApplication2.cpp(83,46): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+  ConsoleApplication2.vcxproj -> D:\Users\BaDroH\ИВТ\2 курс\Программирование\ЛР 2\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
